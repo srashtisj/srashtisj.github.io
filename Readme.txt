@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 Thanks for downloading this template!
 
 Template Name: iPortfolio
